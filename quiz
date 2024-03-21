@@ -1,0 +1,2 @@
+result = (lambda x: x * 10)(10)
+print(result)  # 출력: 100
